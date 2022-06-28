@@ -1,4 +1,4 @@
 # Waves-Java
 
-<h1>A simply game without game engine or framework only java AWT</h1>
+<h3>A simply game without game engine or framework only java AWT</h3>
 
